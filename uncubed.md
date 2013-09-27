@@ -11,17 +11,17 @@ directions
 
 companies
 ---------
-* careers 2.0
-* stackoverflow
+* [careers 2.0](http://careers.stackoverflow.com/about) - job search site for programmers
+* [stackoverflow](http://stackoverflow.com/)
 * wakefield - city of wakefield?
-* party headphones - headphone rental service
+* [party headphones](http://partyheadphones.com/) - headphone rental service
 * [sproutel](www.sproutel.com) - "interactive games for children with chronic illnesses"
 * [startup institute](startupinstitute.com) - launch-academy for startups
 * [gradeable](www.gradeable.com) - digital, web-based grading system for teachers
 * [fiksu](http://www.fiksu.com/company/company-overview) - online marketing
 * [launcht](www.launcht.com) - crowdfunding platform
 * [stackdriver](http://www.stackdriver.com/about-stackdriver/) - live monitoring of webservers
-* [sbr health](http://www.sbrhealth.com/about-sbr) - digital patient records, videoconfrencing.
+* [sbr health](http://www.sbrhealth.com/about-sbr) - digital patient records, videoconferencing.
 * [drizly](http://www.drizly.com/about.php) - alcohol delivery service from your smartphone
 * [levelup](https://www.thelevelup.com/jobs) - payment processing via your smartphone
 * [updater](https://www.updater.com/about-us) - making moving easier via usps change of address and secure address change notifications
@@ -32,4 +32,4 @@ companies
 * [tremor video](http://tremorvideo.com/about-us/) - video advertising
 * [amicus](http://jobs.amicushq.com/) - helping nonprofits with fundraising using today's technology
 * [clypd](http://www.clypd.com/) - video advertising
-* streakmedia
+* [streakmedia](streakmedia.net) - email advertising directed at college kids
