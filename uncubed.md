@@ -15,14 +15,14 @@ companies
 * [launcht](www.launcht.com) - crowdfunding platform
 * [stackdriver](http://www.stackdriver.com/about-stackdriver/) - live monitoring of webservers
 * [sbr health](http://www.sbrhealth.com/about-sbr) - digital patient records, videoconfrencing.
-* [drizly](http://www.drizly.com/about.php) - alcohol delivery service from your phone
-* [levelup](https://www.thelevelup.com/jobs) - payment processing via your phone
+* [drizly](http://www.drizly.com/about.php) - alcohol delivery service from your smartphone
+* [levelup](https://www.thelevelup.com/jobs) - payment processing via your smartphone
 * [updater](https://www.updater.com/about-us) - making moving easier via usps change of address and secure address change notifications
 * [co everywhere](www.coeverywhere.com) - phone app to find out what's happening in a specific neighborhood or area
 * [wireover](http://www.wireover.com/jobs/) - peer-to-peer file transfer
-* tivli - online television platform
-* gopinion
-* tremor video
-* amicus
-* clypd
+* [tivli](http://tivli.com/jobs/) - online television platform, netflix for tv
+* [gopinion](http://www.gopinion.com/info/about) - allows customers give feedback to a business via qr codes and smartphone surveys.
+* [tremor video](http://tremorvideo.com/about-us/) - video advertising
+* [amicus](http://jobs.amicushq.com/) - helping nonprofits with fundraising using today's technology
+* [clypd](http://www.clypd.com/) - video advertising
 * streakmedia
