@@ -17,9 +17,9 @@ companies
 * [sbr health](http://www.sbrhealth.com/about-sbr) - digital patient records, videoconfrencing.
 * [drizly](http://www.drizly.com/about.php) - alcohol delivery service from your phone
 * [levelup](https://www.thelevelup.com/jobs) - payment processing via your phone
-* updater
-* co everywhere
-* wireover
+* [updater](https://www.updater.com/about-us) - making moving easier via usps change of address and secure address change notifications
+* [co everywhere](www.coeverywhere.com) - phone app to find out what's happening in a specific neighborhood or area
+* [wireover](http://www.wireover.com/jobs/) - peer-to-peer file transfer
 * tivli - online television platform
 * gopinion
 * tremor video
