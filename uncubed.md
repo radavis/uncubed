@@ -4,10 +4,10 @@ boston uncubed
 
 directions
 ----------
-Red Line to Broadway stop
-Walk east on Broadway
-Left on 'A' Street
-Right on 2nd Street
+* Red Line to Broadway stop
+* Walk east on Broadway
+* Left on 'A' Street
+* Right on 2nd Street
 
 companies
 ---------
